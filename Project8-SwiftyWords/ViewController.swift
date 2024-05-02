@@ -29,7 +29,7 @@ class ViewController: UIViewController {
     override func loadView() {
  
         view = UIView()
-        view.backgroundColor = UIColor(red: 0/255, green: 21/255, blue: 36/255, alpha: 1.0)
+        view.backgroundColor = UIColor(red: 1/255, green: 21/255, blue: 36/255, alpha: 1.0)
 
             
         //set positioning, text, font and colors of scoreLabel
